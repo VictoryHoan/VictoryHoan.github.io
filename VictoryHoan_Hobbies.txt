@@ -1,4 +1,8 @@
 gaming and jogging
 
+<<<<<<< HEAD
+ggg
+=======
 gay
 hello
+>>>>>>> main
